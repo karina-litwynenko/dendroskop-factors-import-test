@@ -1,5 +1,5 @@
 num_code;Name;Sp_code;HF_factor_grp;F_formula;Fk_formula;V_tab;Order;Conifer;Color
-110;Pušis;P;P;2;1;P;1;1;FFA049
+110;Pušis;P;P;2;1;P;1;0;FFA049
 120;Eglė;E;E;1;2;E;2;1;FF73E3
 130;Maumedis;M;P;2;1;M;10;1;FF4646
 114;Kiti spygliuočiai;Ks;P;2;1;P;11;1;FF73E3
@@ -16,5 +16,5 @@ num_code;Name;Sp_code;HF_factor_grp;F_formula;Fk_formula;V_tab;Order;Conifer;Col
 330;Drebulė;D;D;1;3;D;5;0;B3FF5A
 350;Liepa;L;J;2;3;L;9;0;00DC00
 370;Blindė;Bl;Bt;2;3;Bt;17;0;FFFF73
-380;Gluosnis;Gl;Bt;2;3;Bt;18;0;FFFF73
-399;Kiti minkštieji lapuočiai;Km;Bt;2;3;Bt;19;0;FFFF73
+402;Gluosnis;Gl;Bt;2;3;Bt;18;1;FFFF73
+410;Kiti minkštieji lapuočiai;Km;Bt;2;3;Bt;19;1;FFFF73
